@@ -1,0 +1,40 @@
+{
+  "DesktopsPage": [
+    {
+    "latency":367,
+    "tti":37,
+    "total_time":435,
+    "ttl":26,
+    "onload":0
+    }
+  ],
+  "ComputersPage":
+  [
+    {
+      "latency":428,
+      "tti":121,
+      "total_time":555,
+      "ttl":1,"onload":0
+    }
+  ],
+  "ProductsPage":
+  [
+    {
+      "latency":371,
+      "tti":255,
+      "total_time":901,
+      "ttl":270,
+      "onload":0
+    }
+  ],
+  "MainPage":
+  [
+    {
+      "latency":1475,
+      "tti":137,
+      "total_time":1635,
+      "ttl":9,
+      "onload":4
+    }
+  ]
+}
